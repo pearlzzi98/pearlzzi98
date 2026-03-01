@@ -32,7 +32,7 @@
 ### 🎮 Gaming
 | Platform | Games |
 |----------|-------|
-| 💻 PC | DBD, GTA5 (GTA6→) |
+| 💻 PC | DBD, GTA5 (GTA6 soon) |
 | 📱 Mobile | MapleStory (growth) |
 
 <br>
