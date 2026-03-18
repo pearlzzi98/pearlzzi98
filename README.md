@@ -13,7 +13,6 @@
 |----------|-------|
 | 📊 **Logging** | ELK (ES, Logstash, Kafka), Filebeat |
 | 🗄️ **Database** | MariaDB, Redis, Elasticsearch |
-| 🔐 **Security** | Vuln Scan, OSS Sec, PII |
 
 <br>
 
@@ -34,6 +33,16 @@
 |----------|-------|
 | 💻 PC | DBD, GTA5 (GTA6 soon) |
 | 📱 Mobile | MapleStory (growth) |
+
+<br>
+
+### 🤖 Interests
+| Topic | Details |
+|-------|---------|
+| 🧠 **AI Agent** | Autonomous agent architecture & multi-agent systems |
+| 🤖 **LLM Frameworks** | Claude (Anthropic), Open Claw |
+| 🦾 **Personal Jarvis** | Self-hosted AI assistant · [open-jarvis/OpenJarvis](https://github.com/open-jarvis/OpenJarvis) |
+| 🔐 **Agent Security** | Securing agents in production (prompt injection, tool misuse, privilege escalation) |
 
 <br>
 
